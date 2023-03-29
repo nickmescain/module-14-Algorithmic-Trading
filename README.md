@@ -6,7 +6,7 @@
 
 The baseline algorithim was unsuccesful the actual returns were much higher than the strategic returns. The actual returns went peaked as high as 1.6 in 2021 were as the strategic returns failed to exceed 1.0 in the 6 year timespan.
 
-![alt text](Baseline Algo.png)'
+'![alt text](Baseline_Algo.png)'
 
 ##
 
