@@ -12,25 +12,22 @@ The baseline algorithim was unsuccesful the actual returns were much higher than
 
 In this model, I adjusted the time frame of the model from 3 months to 9 months. This model was a rollercoaster. It was extremely volatile for some time it sharply rose mid 2018 exceeding the actual returns and took a steep dip in the start of 2019 and again outperforming the actual returns in 2021. If you timed it right one could have been profitable.
 
-'![alt text](Tune-Adj.png)'
+
+![Baseline-Algo](https://user-images.githubusercontent.com/112914705/228449164-144b5c8b-ffb5-40ca-9f07-db617ea105ab.png)
+
 
 ## Tune SMA Window
 
 In this model, I adjusted the SMA windows for both the short and long timeframe. I made the short window 30 days and the long window 352 days.This model provided showed negative returns steadily over the years.
 
-'![alt text](sma_window.png)'
-
+![sma_window](https://user-images.githubusercontent.com/112914705/228449708-7d7a783b-3c3b-410d-b012-133a28b690f2.png)
 ## New Machine Learning Classfier
 
  I used logistic regression as a machine learning classifier. It was less profitable except for early 2020 were it broke even.
 
- '![alt text](LR-MODEL.png)'
+ 
+![LR-MODEL](https://user-images.githubusercontent.com/112914705/228449884-c1fe20ba-7deb-4310-aa69-51066036d9ea.png)
 
 
 
-
-
-
-
-#Answer the following question: What impact resulted from increasing or decreasing the training window?
 
